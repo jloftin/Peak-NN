@@ -75,6 +75,8 @@ for i = 1:num_peaks
 
 end
 
-peaks = avg;
+m = max(avg)
+
+ 
 
 end
